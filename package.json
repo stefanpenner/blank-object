@@ -1,0 +1,12 @@
+{
+  "name": "blank-object",
+  "version": "1.0.0",
+  "description": "A faster alternative to Object.create(null)",
+  "main": "index.js",
+  "jsnext:main": "lib/index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Stefan Penner",
+  "license": "MIT"
+}
