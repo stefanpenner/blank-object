@@ -5,10 +5,7 @@
 }(this, function () { 'use strict';
 
   function BlankObject() {}
-  BlankObject.prototype = Object.create(null, {
-    constructor: { value: undefined, enumerable: false, writable: true }
-  });
-
+  BlankObject.prototype = Object.create(null);
   return BlankObject;
 
 }));
