@@ -1,6 +1,6 @@
 {
   "name": "blank-object",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A faster alternative to Object.create(null)",
   "main": "index.js",
   "jsnext:main": "lib/index.js",
